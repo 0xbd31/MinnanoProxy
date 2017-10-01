@@ -1,0 +1,10 @@
+# Output binary files
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE files
+.vscode/
